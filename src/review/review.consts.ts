@@ -1,0 +1,1 @@
+export const REVIEW_NOT_FOUNT = 'Review with this ID was not fount'
